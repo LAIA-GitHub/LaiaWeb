@@ -1,0 +1,78 @@
+body {
+    background-color: #FF3355;
+  }
+
+@font-face {
+    font-family: 'roboto_regular';
+    src: url('src/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'roboto_bold';
+    src: url('src/fonts/Roboto/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'roboto_mono';
+    src: url('src/fonts/Roboto_Mono/RobotoMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'roboto_mono_bold';
+    src: url('src/fonts/Roboto_Mono/RobotoMono-Bold.ttf');
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+    color: #FFCCD5;
+    font-family: roboto_bold;
+    font-weight: bold;
+    font-size: 100pt;
+  }
+
+text {
+    font-family: roboto_regular;
+}
+
+.Container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.WidgetCarusell{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.LAIAWidget{
+    background-color: #ffffff;
+    margin: 20pt;
+    align-items: center;
+    box-shadow: 6px 6px;
+    padding: 20pt;
+    display: flex;
+    flex-direction: column;
+    gap: 20pt;
+    width: 50%;
+    height: fit-content;
+}
+
+.FormWidget{
+    background-color: #ffffff;
+    margin: 20pt;
+    padding: 20pt;
+    align-items: center;
+    box-shadow: 6px 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 20pt;
+    width: 50%;
+    height: fit-content;
+}
