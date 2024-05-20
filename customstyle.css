@@ -56,7 +56,6 @@ text {
     margin: 20pt;
     align-items: center;
     box-shadow: 6px 6px;
-    padding: 20pt;
     display: flex;
     flex-direction: column;
     gap: 20pt;
@@ -67,7 +66,7 @@ text {
 .FormWidget{
     background-color: #ffffff;
     margin: 20pt;
-    padding: 20pt;
+    padding-top: 20pt;
     align-items: center;
     box-shadow: 6px 6px;
     display: flex;
