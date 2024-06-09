@@ -82,4 +82,5 @@ text {
     gap: 20pt;
     height: fit-content;
     font-family: roboto_bold;
+    width: 80%;
 }
