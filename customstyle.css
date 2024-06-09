@@ -74,5 +74,5 @@ text {
     gap: 20pt;
     width: 100%;
     height: fit-content;
-    font-weight: bold;
+    font-family: roboto_bold;
 }
