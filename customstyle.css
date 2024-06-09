@@ -72,6 +72,6 @@ text {
     display: flex;
     flex-direction: column;
     gap: 20pt;
-    width: 50%;
+    width: 100%;
     height: fit-content;
 }
