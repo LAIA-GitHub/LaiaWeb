@@ -65,8 +65,8 @@ text {
 
 .FormWidget{
     background-color: #ffffff;
-    margin: 20pt;
-    padding-top: 20pt;
+    margin: 50pt;
+    padding-top: 40pt;
     align-items: center;
     box-shadow: 6px 6px;
     display: flex;
@@ -74,4 +74,5 @@ text {
     gap: 20pt;
     width: 100%;
     height: fit-content;
+    font-weight: bold;
 }
