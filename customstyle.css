@@ -72,7 +72,6 @@ text {
     display: flex;
     flex-direction: column;
     gap: 20pt;
-    width: 100%;
     height: fit-content;
     font-family: roboto_bold;
 }
