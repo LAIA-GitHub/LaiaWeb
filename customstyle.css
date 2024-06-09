@@ -38,6 +38,14 @@ text {
     font-family: roboto_regular;
 }
 
+.text-left text-2xl mb-4{
+    font-weight: bold;
+}
+
+.text-sm text-cool-gray-500 mb-4{
+    font-weight: bold;
+}
+
 .Container{
     display: flex;
     justify-content: flex-start;
